@@ -1,2 +1,3 @@
-<？PHP
+<?php
 echo "hello";
+echo 'hh';
